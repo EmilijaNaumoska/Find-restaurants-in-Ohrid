@@ -1,0 +1,58 @@
+﻿@model CustomerViewModel
+@{
+    ViewData["Title"] = "Create Review";
+}
+<br />
+
+    <form  method="post" asp-controller="Customer" asp-action="AddReview">
+        <div class="form-group row">
+            <label asp-for="Date" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-4">
+                <input asp-for="Date" type="text" class="form-control" readonly>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Name" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-4">
+                <input asp-for="Name" class="form-control" readonly>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Heading" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-4">
+                <input asp-for="Heading" class="form-control">
+                <span asp-validation-for="Heading" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="RestaurentName" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-4">
+                <input asp-for="RestaurentName" class="form-control">
+                <span asp-validation-for="RestaurentName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Comment" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-4">
+                <textarea asp-for="Comment" class="form-control"></textarea>
+                <span asp-validation-for="Comment" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Rating" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-4">
+                <input asp-for="Rating" class="form-control">
+                <span asp-validation-for="Rating" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-sm-4">
+                <button type="submit" class="btn btn-primary">Create</button>
+            </div>
+        </div>
+    </form>
+
+    <div>
+
+        <a asp-controller="customer" asp-action="Index">Back to List</a>
+    </div>

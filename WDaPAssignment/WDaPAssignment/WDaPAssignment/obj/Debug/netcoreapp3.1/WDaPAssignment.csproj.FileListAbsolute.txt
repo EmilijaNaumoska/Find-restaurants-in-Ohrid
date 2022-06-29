@@ -1,0 +1,510 @@
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.exe
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.deps.json
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.runtimeconfig.json
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.runtimeconfig.dev.json
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.Views.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.Views.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.AssemblyInfo.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.TagHelpers.input.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.TagHelpers.output.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.Views.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\staticwebassets\WDaPAssignment.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\staticwebassets\WDaPAssignment.StaticWebAssets.xml
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.genruntimeconfig.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csproj.CopyComplete
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactAbout.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Restaurants.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cuisines.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dishes.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Prices.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Locations.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddReview.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\EditReview.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ReviewDetail.cshtml.g.cs
+C:\Users\admin\Desktop\WDaP Assignment 2\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteReview.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.exe
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.deps.json
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.runtimeconfig.json
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.runtimeconfig.dev.json
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.Views.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.Views.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csprojAssemblyReference.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.AssemblyInfoInputs.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.AssemblyInfo.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csproj.CoreCompileInputs.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorAssemblyInfo.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorAssemblyInfo.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.TagHelpers.input.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.TagHelpers.output.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorCoreGenerate.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddReview.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteReview.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\EditReview.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ReviewDetail.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactAbout.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cuisines.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dishes.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Locations.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Prices.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Restaurants.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorTargetAssemblyInfo.cs
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.Views.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csproj.CopyComplete
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\staticwebassets\WDaPAssignment.StaticWebAssets.Manifest.cache
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\staticwebassets\WDaPAssignment.StaticWebAssets.xml
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.dll
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.pdb
+C:\Users\klote\Downloads\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.genruntimeconfig.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.exe
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.deps.json
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.runtimeconfig.json
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.runtimeconfig.dev.json
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.Views.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\WDaPAssignment.Views.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csproj.AssemblyReference.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.AssemblyInfoInputs.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.AssemblyInfo.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorAssemblyInfo.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorAssemblyInfo.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\staticwebassets\WDaPAssignment.StaticWebAssets.Manifest.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\staticwebassets\WDaPAssignment.StaticWebAssets.xml
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\WDaPAssignment.styles.css
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.TagHelpers.input.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.TagHelpers.output.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorCoreGenerate.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddReview.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteReview.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\EditReview.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ReviewDetail.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactAbout.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cuisines.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dishes.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Locations.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Prices.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Restaurants.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.RazorTargetAssemblyInfo.cs
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.Views.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.csproj.CopyComplete
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.dll
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.pdb
+C:\Users\Emilija\Desktop\ФАКУЛТЕТ\Find restaurants\WDaPAssignment\WDaPAssignment\WDaPAssignment\obj\Debug\netcoreapp3.1\WDaPAssignment.genruntimeconfig.cache

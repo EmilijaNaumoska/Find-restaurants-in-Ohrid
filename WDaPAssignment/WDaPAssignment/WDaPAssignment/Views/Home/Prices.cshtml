@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewData["Title"] = "Prices";
+}
+
+<div class="container-fluid">
+    <div class="row IndexDisc pricesBlock pb30">
+        <div class="col-md-12 col-sm-12 col-12 centre">
+            <h1 class="IndexHead centre bgw" id="justblue">Cheap Eats</h1>
+            <div class="bgw">
+                <p>
+                    If you want good food on a budget, go to Dr.Falafel. Click the image below to go to their website.
+                </p>
+                <p>
+                    <img class="image-border" src="@Url.Content("~/images/location/falafel_logo.jpg")" asp-append-version="true" height="300" width="400" onClick="parent.location='https://menus.mk/places/ohrid/dr-falafel/'" />
+            </div>
+        </div>
+        <div class="col-md-12 col-sm-12 col-12 centre">
+            <div class="bgw">
+                <h1 class="IndexHead centre" id="justblue">Mid-range</h1>
+                <p>
+                    For good food at reasonable prices, you can visit either Leonardo or Hotel Tino. <br />
+                    Click the images below to go to their websites.
+                </p>
+
+                <img class="image-border" src="@Url.Content("~/images/location/leonardo_logo.png")" asp-append-version="true" height="300" width="400" onClick="parent.location='https://leonardo.mk/mk//'" />
+                <img class="image-border" src="@Url.Content("~/images/location/tino_logo.jpg")" asp-append-version="true" height="300" width="400" onClick="parent.location='http://www.hoteltino.com.mk/index.php/restaurant'" />
+
+
+            </div>
+        </div>
+
+        <div class="col-md-12 col-sm-12 col-12 centre">
+            <div class="bgw">
+                <h1 class="IndexHead centre" id="justblue">Fine Dining</h1>
+                <p>
+                    To treat yourself, we reccomend trying Sv.Sofia, Kaneo Letna Bavcha and Riviera. Click the images below to go to their websites.
+                </p>
+                <img class="image-border" src="@Url.Content("~/images/location/svsofija_logo.png")" asp-append-version="true" height="300" width="400" onClick="parent.location='https://restoransvsofija.mk/en_US/'" />
+                <img class="image-border" src="@Url.Content("~/images/location/kaneo_logo.jpg")" asp-append-version="true" height="300" width="400" onClick="parent.location='http://kaneorestaurant.com/'" />
+                <img class="image-border" src="@Url.Content("~/images/location/riviera_logo.png")" asp-append-version="true" height="300" width="400" onClick="parent.location='http://www.novariviera.com.mk/restoran/'" />
+            </div>
+        </div>
+    </div>
+</div>
+

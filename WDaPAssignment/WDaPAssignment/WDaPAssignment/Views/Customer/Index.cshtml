@@ -1,0 +1,131 @@
+﻿@model CustomerViewModel
+@{
+    ViewData["Title"] = "Customer Review";
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 col-sm-12 col-12 pb30">
+
+            <h2>BE THE CRITIC</h2>
+            <p style="padding-left:10px">
+                Have you been to a restaurant recently and loved to loathed it ? Then tell us all about.
+                Find your inner restaurant critic and create an account to review your recent dining experience
+            </p>
+
+
+        </div>
+        <div class="col-md-6 col-sm-12 col-12 welcome-image pb30">
+            <div class="row centre p10">
+                <div class="col-md-6 col-sm-6 col-6" style="background-size:90%"><img src="../images/burger.jpeg" alt="Hamburger and Chips" /></div>
+                <div class="col-md-6 col-sm-6 col-6" style="background-size:90%"><img src="../images/pasta.jpeg" alt="Chicken pasta" /></div>
+            </div>
+        </div>
+
+
+
+    </div>
+    <div class="clearfix"></div>
+    <div class="row">
+        @if (User.UserName() != "")
+        {
+            <div class="col-md-6 col-sm-12 col-12 pb30">
+                <a class="float-left btn text-white btn-primary ml-2" asp-controller="customer" asp-action="AddReview"> Submit a Review</a>
+            </div>
+
+
+        <div class="col-md-6 col-sm-12 col-12 pb30">
+            <a class="float-left btn text-white btn-primary ml-2" asp-controller="customer" asp-action="ReviewDetail"> Open reviews</a>
+        </div>
+        }
+
+        else
+        {
+        <div class="col-md-12 col-sm-12 col-12 pb30">
+            <p>
+                Please  <a asp-controller="account" asp-action="login">Log In </a> or <a asp-controller="account" asp-action="register"> create an account  </a> to post your feedback on this page
+            </p>
+        </div>
+        }
+
+    </div>
+    @foreach (var item in Model.CustomerList)
+    {
+
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+
+                    <div class="col-md-12">
+                        <h3><strong>@item.Heading</strong></h3>
+
+                        <h5><strong>@@@item.RestaurentName</strong></h5>
+                        <p>
+                            @for (int i = 0; i < item.Rating; i++)
+                            {
+                                <span><i class="text-warning fa fa-star"></i></span>
+                            }
+                            @for (int i = 0; i < 5 - item.Rating; i++)
+                            {
+                                <span><i class="text-dark fa fa-star"></i></span>
+
+                            }
+
+                        </p>
+                        <div class="clearfix"></div>
+                        <p>@item.Comment</p>
+                        <p>Review by <strong>@item.Name</strong> on <strong>@item.Date</strong></p>
+                        <p>
+                            @if (User.Role() == "Manager")
+                            {
+                                <a class="float-right btn btn-outline-primary ml-2" asp-action="DeleteReview" asp-controller="customer"
+                                   asp-route-id="@item.CustomerId"> <i class="fa fa-trash"></i> Delete</a>
+                                <a class="float-right btn btn-outline-primary ml-2" asp-action="EditReview" asp-controller="customer"
+                                   asp-route-id="@item.CustomerId"> <i class="fa fa-pencil-square-o"></i> Edit</a>
+                            }
+
+                            <a class="float-left btn btn-outline-primary ml-2" asp-action="ReviewDetail" asp-controller="customer"
+                               asp-route-id="@item.CustomerId">  Details</a>
+                        </p>
+                        @if (Context.Session.GetString("CustomerId") == @item.CustomerId.ToString() || User.UserName()=="")
+                        {
+                            <p>
+                                <a class="float-left btn text-white btn-success ml-2"> <i class="fa fa-thumbs-up"></i> Agree (@item.Agree)</a>
+
+                                <a class="float-left btn text-white btn-danger ml-2"> <i class="fa fa-thumbs-down"></i> Disagree (@item.Disagree)</a>
+                            </p>
+                        }
+                        else
+                        {
+                            @*<form asp-controller="customer" asp-action="Aggree" method="post">
+                                <input hidden asp-for="@item.CustomerId" />
+                                <button type="submit" class="float-left btn text-white btn-success ml-2">  <i class="fa fa-thumbs-up"></i> Agree (@item.Agree) </button>
+
+                            </form>
+                            <form asp-controller="customer" asp-action="Disagree" method="post">
+                                <input hidden asp-for="@item.CustomerId" />
+                                <button type="submit" class="float-left btn text-white btn-danger ml-2" > <i class="fa fa-thumbs-down"></i> Disagree (@item.Disagree) </button>
+
+                            </form>*@
+                            <a class="float-left btn text-white btn-success ml-2" asp-action="Aggree" asp-controller="customer"
+                                   asp-route-id="@item.CustomerId"> <i class="fa fa-thumbs-up"></i> Agree (@item.Agree)</a>
+
+                            <a class="float-left btn text-white btn-danger ml-2" asp-action="Disagree" asp-controller="customer"
+                                   asp-route-id="@item.CustomerId"> <i class="fa fa-thumbs-down"></i> Disagree (@item.Disagree)</a>
+                        }
+
+
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+
+
+</div>
+
+
+
+
